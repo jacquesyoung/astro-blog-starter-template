@@ -1,7 +1,7 @@
 ---
 title: "Bukit Tinggi 2005"
 description: "My very first post"
-pubDate: "Jan 23 2005"
+pubDate: "23/01/2005"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
