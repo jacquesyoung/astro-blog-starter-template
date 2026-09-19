@@ -12,6 +12,8 @@ content:
      - name: pubDate
        label: Published Date
        type: date
+       options:
+         format: dd/mm/yyyy
      - name: heroImage
        label: Hero Image
        type: image
