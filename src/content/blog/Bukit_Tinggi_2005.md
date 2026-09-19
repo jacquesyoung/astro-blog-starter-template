@@ -1,7 +1,7 @@
 ---
 title: Bukit Tinggi 2005
 description: My very first post
-pubDate: 23/00/2005
+pubDate: 23/01/2005
 heroImage: /blog-placeholder-3.jpg
 ---
 Date, 8th January 2005. Place, RHB Centre. Time, very early in the morning. We were preparing to go to Colmar Tropical, Bukit Tinggi, Pahang for our annual company trip.
