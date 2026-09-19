@@ -15,3 +15,5 @@ content:
      - name: heroImage
        label: Hero Image
        type: image
+   view:
+     fields: [title, description]
