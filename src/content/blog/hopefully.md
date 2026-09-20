@@ -6,6 +6,6 @@ heroImage: /blog-placeholder-4.jpg
 ---
 Why hopefully? Because I am hopeful that my stuff from 2005 will get migrated to this new environment without much hiccup. Exabytes was good but it's not cheap. By migrating I am hoping to reduce my financial burden. Sorry Exabytes!
 
-![](</images/Jacky Yong site 2026.png>)
+![The old Jacky Yong site with the Greyzed Theme](</images/Jacky Yong site 2026.png>)
 
 Goodbye Exabytes JackyYong.com, it's been a good ?? year (I think a decade!). But it's time to split up.
