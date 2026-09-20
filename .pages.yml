@@ -1,6 +1,6 @@
 media:
   input: public/images
-  output: assets
+  output: /assets
   rename: false
   categories: [image]
 content:
