@@ -1,6 +1,6 @@
 media:
-  input: public
-  output: public
+  input: public/images
+  output: assets
   rename: random
   categories: [image]
 content:
