@@ -36,5 +36,5 @@ The meat of it all, the French Village.
 
 We couldn’t help taking pictures of every corner of the place. So “suaku” :P
 
-![IMG_0145.JPG](blob:https:/app.pagescms.org/91c68d93-2d56-44d0-8ccd-dac39c50ad26)
+![](/images/IMG_0145.jpg)
 
