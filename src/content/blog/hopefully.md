@@ -8,4 +8,6 @@ Why hopefully? Because I am hopeful that my stuff from 2005 will get migrated to
 
 ![The old Jacky Yong site with the Greyzed Theme](</images/Jacky Yong site 2026.png>)
 
-Goodbye Exabytes JackyYong.com, it's been a good ?? year (I think a decade!). But it's time to split up..
+The old Jacky Yong site with the Greyzed Theme
+
+Goodbye Exabytes JackyYong.com, it's been a good ?? year (I think a decade!). But it's time to split up.
