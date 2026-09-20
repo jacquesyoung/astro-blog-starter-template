@@ -47,3 +47,6 @@ In addition to the 60’s theme custom that we were required to wear, there was 
 ![](/images/IMG_0199.jpg)
 
 The very next day I slept till very late, and totally missed the Telematch. It was intentional, I really was hoping to skip the Telematch anyway. To me, sleep is much more important.
+
+![](/images/IMG_0201.jpg)
+
