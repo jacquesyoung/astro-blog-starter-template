@@ -1,6 +1,6 @@
 media:
   input: public
-  output: media
+  output: public
   rename: random
   categories: [image]
 content:
