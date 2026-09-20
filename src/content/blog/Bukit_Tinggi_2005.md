@@ -10,7 +10,7 @@ Date, 8th January 2005. Place, RHB Centre. Time, very early in the morning. We w
 
 We took off on time. However our trip was not all that smooth sailing. Our bus got caught for a traffic offence. I think it was because the bus driver was cruising at the middle lane when buses are not allowed in that lane.
 
-
+![](/images/IMG_0063.jpg)
 
 Anyway we arrived in the Rabbit Garden without much hiccups after that. There were a lot of cuddly wuddly bunnies everywhere and they are free to roam out in the open! The girls just love them!
 
