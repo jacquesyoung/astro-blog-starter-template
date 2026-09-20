@@ -38,3 +38,7 @@ We couldn’t help taking pictures of every corner of the place. So “suaku” 
 
 ![](/images/IMG_0145.jpg)
 
+The dinner itself was interesting. The theme was “Singing 60’s”.
+
+![](/images/IMG_0153.jpg)
+
