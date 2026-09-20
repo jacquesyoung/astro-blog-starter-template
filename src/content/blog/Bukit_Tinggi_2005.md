@@ -28,3 +28,9 @@ Errr…. more like raining cats only. Anyway, despite the rain, we still went up
 
 ![](/images/IMG_0105.jpg)
 
+![](/images/IMG_0111.jpg)
+
+The meat of it all, the French Village.
+
+![](/images/IMG_0126.jpg)
+
