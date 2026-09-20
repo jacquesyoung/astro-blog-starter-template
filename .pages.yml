@@ -1,3 +1,6 @@
+media:
+  input: public
+  output: assets
 content:
  - name: posts
    type: collection
