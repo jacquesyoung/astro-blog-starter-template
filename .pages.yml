@@ -1,7 +1,7 @@
 media:
   input: public/images
   output: assets
-  rename: random
+  rename: false
   categories: [image]
 content:
  - name: posts
