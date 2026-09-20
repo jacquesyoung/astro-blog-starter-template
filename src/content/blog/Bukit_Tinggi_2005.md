@@ -14,5 +14,5 @@ Our first destination was the Japanese Village. It was starting to rain cats and
 
 Errr…. more like raining cats only. Anyway, despite the rain, we still went up the hill to see how beautiful it was. And we were not disappointed at all!
 
-![](images/IMG_0080.jpg)
+
 
