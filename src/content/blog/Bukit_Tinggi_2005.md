@@ -42,3 +42,6 @@ The dinner itself was interesting. The theme was “Singing 60’s”.
 
 ![](/images/IMG_0153.jpg)
 
+In addition to the 60’s theme custom that we were required to wear, there was this group performance that each group are required to do. Jayce’s team won the best performance! Her team’s performance is about a really ugly girl who was transformed into a beautiful princess, goes to a ball and fell in love with a handsome prince. You can now imagine what the ending like. Let’s just say that the ending is not that *happy*.
+
+The very next day I slept till very late, and totally missed the Telematch. It was intentional, I really was hoping to skip the Telematch anyway. To me, sleep is much more important.
