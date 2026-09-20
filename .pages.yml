@@ -1,6 +1,8 @@
 media:
   input: public
-  output: ./assets
+  output: /media
+  rename: random
+  categories: [image]
 content:
  - name: posts
    type: collection
