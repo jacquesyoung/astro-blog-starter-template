@@ -1,8 +1,3 @@
-media:
-  input: public/images
-  output: /images
-  rename: false
-  categories: [image]
 content:
  - name: posts
    type: collection
