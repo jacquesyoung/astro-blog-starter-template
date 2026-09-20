@@ -13,3 +13,6 @@ Finally arrived to Colmar Tropical. It was a lovely place with very dreamy looki
 Our first destination was the Japanese Village. It was starting to rain cats and dogs.
 
 Errr…. more like raining cats only. Anyway, despite the rain, we still went up the hill to see how beautiful it was. And we were not disappointed at all!
+
+![](assets/IMG_0080.jpg)
+
