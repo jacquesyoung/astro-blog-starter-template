@@ -50,3 +50,4 @@ The very next day I slept till very late, and totally missed the Telematch. It w
 
 ![](/images/IMG_0201.jpg)
 
+After much fooling around, taking pictures here and there, we were ready once more to go back to KL. We had lunch there before we go back. The crawl back to KL was long, due to the bad traffic jam that we encountered towards the toll in Karak Highway. We had a great time, and I was really hoping forward to the next trip!
