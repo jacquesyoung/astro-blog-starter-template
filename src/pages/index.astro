@@ -2,7 +2,17 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import PhotoSwipeGallery from '../components/PhotoSwipeGallery.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const galleryImages = [
+	{ src: '/images/IMG_0063.jpg', alt: 'Photo 0063' },
+	{ src: '/images/IMG_0080.jpg', alt: 'Photo 0080' },
+	{ src: '/images/IMG_0104.jpg', alt: 'Photo 0104' },
+	{ src: '/images/IMG_0121.jpg', alt: 'Photo 0121' },
+	{ src: '/images/IMG_0145.jpg', alt: 'Photo 0145' },
+	{ src: '/images/Jacky Yong site 2026.png', alt: 'Jacky Yong site 2026' },
+];
 ---
 
 <!doctype html>
@@ -44,6 +54,8 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 					>astro-blog-template
 				</a> by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
 			</p>
+
+			<PhotoSwipeGallery images={galleryImages} columns={3} />
 		</main>
 		<Footer />
 	</body>
