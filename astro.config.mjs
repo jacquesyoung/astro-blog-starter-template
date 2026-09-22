@@ -9,6 +9,4 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
 	site: "https://example.com",
 	integrations: [mdx(), sitemap()],
-	adapter: cloudflare({
-	}),
 });
