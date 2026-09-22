@@ -10,9 +10,5 @@ export default defineConfig({
 	output: "server",  // or "hybrid"
 	site: "https://example.com",
 	integrations: [mdx(), sitemap()],
-	adapter: cloudflare({
-		platformProxy: {
-			enabled: true,
-		},
-	}),
+	adapter: cloudflare(),
 });

@@ -36,5 +36,9 @@
 		"dev": "astro dev",
 		"preview": "astro build && wrangler dev"
 	},
-	"type": "module"
+	"type": "module",
+	"allowScripts": {
+		"workerd@1.20260921.1": true,
+		"esbuild@0.28.2": true
+	}
 }
